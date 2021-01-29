@@ -5,6 +5,6 @@
  
 Python packet_sniffer.py
 
-The program doesnt take any command line arguments but I will eb changing this to allow users to select an interface, for the time being it can be changed in the source code. 
+The program doesnt take any command line arguments but I will be changing this to allow users to select an interface, for the time being it can be changed in the source code. 
  
  This tool was built using the scapy module to filter specific key words and sniff for packets. 
